@@ -1,6 +1,6 @@
-# AS-Food Document
+# Food Tuck Document
 
-Welcome to the **AS-Food Document** repository! This project is designed to showcase food-related content, including recipes, meal plans, and nutritional information. It serves as a resource for anyone looking to explore or manage their food-related documents.
+Welcome to the **Food Tuck Document** repository! This project is designed to showcase food-related content, including recipes, meal plans, and nutritional information. It serves as a resource for anyone looking to explore or manage their food-related documents.
 
 ---
 
@@ -22,7 +22,7 @@ Follow these steps to get started with the project:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd AS-food-document
+   cd foodtuck-document
    ```
 3. Open the files in your preferred code editor or view them in your browser.
 
@@ -66,9 +66,9 @@ This repository is licensed under the MIT License. You are free to use, modify, 
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
-- **GitHub Profile**: [Ghaniya08](https://github.com/Ghaniya08)
-- **Email**: ghaniyaakhann08@gmail.com
+- **GitHub Profile**: https://github.com/SyedaBismaJafri
+- **Email**: bismahjaffery@gmail.com
 
 ---
 
-Thank you for visiting the **AS-Food Document** repository! We hope you find it helpful and inspiring!
+Thank you for visiting the **Foodtuck Document** repository! We hope you find it helpful and inspiring!
